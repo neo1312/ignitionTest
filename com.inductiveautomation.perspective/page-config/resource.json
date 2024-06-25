@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "MPS",
+      "timestamp": "2024-06-25T16:43:59Z"
+    },
+    "lastModificationSignature": "3262e8ada8a5e7f1b5cd23d4500bbe07a8d81a73e3577106ab581c86509515f3"
+  }
+}
