@@ -18,6 +18,33 @@
           "text": "Main View"
         },
         "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Button"
+        },
+        "position": {
+          "height": 34,
+          "width": 80,
+          "x": 184,
+          "y": 245
+        },
+        "type": "ia.input.button"
+      },
+      {
+        "meta": {
+          "name": "Label_0"
+        },
+        "position": {
+          "height": 32,
+          "width": 50,
+          "x": 204,
+          "y": 375
+        },
+        "props": {
+          "text": "Label"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
